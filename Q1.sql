@@ -1,0 +1,3 @@
+SELECT STDFirstName,StdLastName,StdCity,StdGPA
+FROM STUDENT
+WHERE StdGPA>=3.2;
